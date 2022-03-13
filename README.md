@@ -20,8 +20,6 @@
 - Adding/changing/deleting users;
 - Viewing your own notes.
 
-![Image alt](https://github.com/Mercur1y/main/images/image.png)
-
 ## Instructions for deploying the application
 1. 
 2. 
@@ -29,3 +27,5 @@
 4.
 
 # Application description
+
+![Image alt](https://github.com/Mercur1y/notepad/blob/main/images/welcome.png)
