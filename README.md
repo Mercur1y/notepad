@@ -1,5 +1,5 @@
 # Simple Notepad
-___
+
 ## Applied technologies:
 - Spring MVC pattern;
 - Spring Boot: (Web, Data, Security, DevTools, Mail);
@@ -7,7 +7,7 @@ ___
 - Hibernate (Entitymanager, Validator);
 - FreeMarker;
 - PostgreSQL.
-___
+
 ## Functionality for users:
 - Registration;
 - Authorization (for registered users);
@@ -19,6 +19,13 @@ ___
 - Adding/changing/deleting notes;
 - Adding/changing/deleting users;
 - Viewing your own notes.
+
 ![Image alt](https://github.com/Mercur1y/main/images/image.png)
-___
- 
+
+## Instructions for deploying the application
+1. 
+2. 
+3. 
+4.
+
+# Application description
