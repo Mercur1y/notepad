@@ -43,9 +43,12 @@ spring.mail.protocol=protocol
 5. Run project
 
 ### If you use a Docker
-1. Download a folder "docker" from the project.
-2. 
+1. Download a folder "scr/main/docker" from the project.
+2. Go to the folder via the docker console (cd ..../docker)
+3. Write in the console: _docker-compose up_
 
+Attention!!!
+You will not be able to change the email from which messages are sent
 # Application description
 When you launch the application, you will see this page. It will be possible to login or register on it in the upper right corner.
 
