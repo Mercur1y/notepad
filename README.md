@@ -27,5 +27,6 @@
 4.
 
 # Application description
+When you launch the application, you will see this page. It will be possible to login or register on it in the upper right corner
 
 ![Image alt](https://github.com/Mercur1y/notepad/blob/main/images/welcome.png)
