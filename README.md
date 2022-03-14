@@ -42,6 +42,10 @@ spring.mail.protocol=protocol
 4. In pom.xml change the java version to your own
 5. Run project
 
+### If you use a Docker
+1. Download a folder "docker" from the project.
+2. 
+
 # Application description
 When you launch the application, you will see this page. It will be possible to login or register on it in the upper right corner.
 
